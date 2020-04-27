@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+deb.sqlite3
+venv/
+env/
+.directory
+cloud_sql_proxy
